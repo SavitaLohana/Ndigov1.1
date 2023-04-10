@@ -1,4 +1,4 @@
-pip install -U sphinx
+sphinx
 sphinx-build --version
-pip install sphinx_rtd_theme
-pip install rst2pdf
+sphinx_rtd_theme
+rst2pdf
